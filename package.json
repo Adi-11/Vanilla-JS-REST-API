@@ -1,0 +1,26 @@
+{
+  "name": "vanilla-js-rest-api",
+  "version": "1.0.0",
+  "description": "Vanilla Node.js REST API | No Framework",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adi-11/Vanilla-JS-REST-API.git"
+  },
+  "author": "Aditya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adi-11/Vanilla-JS-REST-API/issues"
+  },
+  "homepage": "https://github.com/Adi-11/Vanilla-JS-REST-API#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  },
+  "dependencies": {
+    "uuid": "^8.3.1"
+  }
+}
